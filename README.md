@@ -10,9 +10,12 @@ There is a notebook for **data cleansing and preparation** (https://github.com/T
 
 one for **more conventional recommender systems** (https://github.com/Timbo85/News-a-la-carte/blob/main/modelling/classic_recommenders/conventional_approaches.ipynb), 
 
-one main notebook for **neural collaborative filtering** (https://github.com/Timbo85/News-a-la-carte/blob/main/modelling/neural_CF/NCF-model.ipynb) and also one employing **RNNs* (https://github.com/Timbo85/News-a-la-carte/blob/main/modelling/RNN/RNN.ipynb).
+one main notebook for **neural collaborative filtering** (https://github.com/Timbo85/News-a-la-carte/blob/main/modelling/neural_CF/NCF-model.ipynb) 
+
+and also one employing **RNNs** (https://github.com/Timbo85/News-a-la-carte/blob/main/modelling/RNN/RNN.ipynb).
 
 You can also access our presentation here: https://github.com/Timbo85/News-a-la-carte/blob/main/News-a-la-carte-slides.pdf .
 
 Thanks for reading,
+
 Pascal & Tim
