@@ -4,7 +4,7 @@
 ## developing recommender systems for news articles
 This is the repository for our capstone project at the neue fische data science bootcamp. We are working with the microsoft MIND database (https://msnews.github.io/) in order to establish a recommender system for online news articles. 
 
-Because we know that recommendation algorithms play an increasingly important (and thus influential) role in our everyday lives, we wanted to get to understand them better by engaging with them directly!. Here, we (re-)constructed both classical and deep-learning news recommender systems. Since the very nature of *news* articles poses heightened challenges for typical recommendation problems, we also discuss the different approaches with emphasis on their adequacy for news consumption. 
+Because we know that recommendation algorithms play an increasingly important (and thus influential) role in our everyday lives, we wanted to get to understand them better by engaging with them directly! Here, we (re-)constructed both classical and deep-learning news recommender systems. Since the very nature of *news* articles poses heightened challenges for typical recommendation problems, we also discuss the different approaches with emphasis on their adequacy for news consumption. 
 
 There is a notebook for **data cleansing and preparation** (https://github.com/Timbo85/News-a-la-carte/blob/main/preprocessing/data_preprocessing.ipynb), 
 
